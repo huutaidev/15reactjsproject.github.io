@@ -1,3 +1,4 @@
+Mở terminal --> gõ CD rồi kéo thẻ file setup của project cần chạy vào --> enter --> npm install --> npm start
 # React Projects
 
 #### React Course
@@ -11,7 +12,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 #### Tutorial Video
 
 [React Tutorial](https://youtu.be/iZhV0bILFb0)
-
+spm
 #### All Projects
 
 [Projects Site](https://react-projects.netlify.app/)
